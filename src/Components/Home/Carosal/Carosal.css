@@ -1,0 +1,38 @@
+.carousel-caption {
+    right: 17%;
+    bottom: 20.25rem;
+}
+.carousel-caption h1{
+    font-size: 75px;
+    color: #FFC513;
+}
+
+@media screen and (max-width: 400px) {
+    .carousel-caption h1 {
+     font-size: 25px;
+    }
+  }
+
+@media screen and (max-width: 400px) {
+    .carousel-caption{
+     bottom: -6.75rem;
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    .carousel-caption h2{
+     font-size: 18px;
+     margin-bottom: -15px;
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .carousel-caption h3{
+     font-size: 15px;
+     margin-bottom: 30px;
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .carosal-button{
+     width:'10px'
+    }
+  }
